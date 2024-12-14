@@ -1,0 +1,6 @@
+kivy
+# PyQt5
+flask
+pytest
+pyinstaller
+numpy
