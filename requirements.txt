@@ -4,3 +4,4 @@ flask
 pytest
 pyinstaller
 numpy
+flake8

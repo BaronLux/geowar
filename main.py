@@ -1,8 +1,6 @@
 import kivy
-
-from game import game, game_state
-
 kivy.require('1.0.6')  # замените на вашу текущую версию kivy
+from game import game, game_state
 from kivy.app import App
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.button import Button
